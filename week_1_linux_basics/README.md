@@ -1,4 +1,4 @@
-# Week 1 – Linux CLI Essentials (Kali / Apporto)
+#  Week 1 – Linux CLI Essentials for Cybersecurity (Kali / Apporto)
 
 **Focus:** Practical Linux terminal fundamentals used in cybersecurity workflows:
 - Directory & file operations (`mkdir`, `touch`, `cp`, `mv`, `rm`, `rm -r`, `rmdir`)

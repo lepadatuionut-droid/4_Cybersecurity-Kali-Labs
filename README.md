@@ -16,7 +16,7 @@ This repository showcases my **cyber security lab work** in a Kali (Apporto) env
   - Week 6: **Cloud Security** (lecture) / **IAM, Remote Access, Logging & Monitoring** (tutorial)  
   - Week 7–10: **Penetration Testing / Attacks / Web App Security / Malware & Covering Tracks** with corresponding labs  
   - Week 12: **Revision & Exam Support**  
-  *(Outline summarized from the Week‑1 module introduction slides.)*
+  
 ``
 ## Security Context
 
@@ -24,4 +24,4 @@ The lab series aligns with core cyber security pillars and practices emphasised 
 - **CIA Triad** (Confidentiality, Integrity, Availability) as a lens for threats and controls.  
 - Progressive exposure to **threats** (e.g., malware, SQL injection, DDoS, MITM) and **controls** (e.g., strong authentication, updates, firewalls, cryptography, backups, DNS security).  
 - Tooling foundation with **Kali Linux** and later labs on **scanning**, **vulnerability assessment**, and **basic penetration testing**.  
-*(Based on the Week‑1 introduction slides on CIA, threats, protections, and Kali/MSF.)*
+

@@ -1,6 +1,6 @@
 # Linux CLI Labs (Kali / Apporto)
 
-This repository hosts my week‑by‑week Linux terminal practice in a Kali (Apporto) environment.
+This repository showcases my **cyber security lab work** in a Kali (Apporto) environment, starting from **Linux CLI fundamentals** and progressing to core security topics (risk & essentials, cryptography, network security/scanning, vulnerability scanning, cloud security, and penetration testing). Each week includes **evidence** (DOCX report, screenshots, exported artifacts) to demonstrate reproducible, hands‑on practice aligned to the module structure
 
 ## Weeks
 - **Week 1 – Linux CLI Essentials**
